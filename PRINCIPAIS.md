@@ -23,3 +23,4 @@
 * [Central de Estágios da PUC-Rio](http://www.ccesp.puc-rio.br/)
   * CCESP
 * [Formatura](http://www.puc-rio.br/sobrepuc/admin/vrc/ceic/formatura/)
+* [Gerência de Recursos Humanos](http://spadm.puc-rio.br/gerencia-recursos-humanos/Paginas/default.aspx#)
